@@ -1,4 +1,4 @@
-# common-geospatial-registry-specification
+# common-geo-registry-specification
 
 A specification for the common geospatial registry.
 
@@ -22,7 +22,7 @@ If you are interested in contributing please refer to the [CONTRIBUTING.md](CONT
 
 ## Authors
 
-* Steve Ebener
+* Steeve Ebener
 * Justin Lewis
 * Nathan McEachen
 
